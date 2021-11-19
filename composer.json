@@ -1,0 +1,29 @@
+{
+    "name": "brasil/digital_cep",
+    "description": "Busca de CEP online",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-0":{
+            "Search" : "src/"
+        },
+        "psr-4": {
+            "Brasil\\DigitalCep\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Daniel Oliveira",
+            "email": "danieoliver7@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.0"
+    }
+
+    
+        
+
+    }
+
+
